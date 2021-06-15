@@ -1,0 +1,8 @@
+Project for Data Structures and Algorithms II 
+we tried to implement a dictionary for software engineering students
+by using linkedlist and Binarysearchtree
+Couldn't fix the method that shows the message when the
+user enters the unvalid word and there are unnecessary lines
+in the output. The lines that include other words that are not displayed 
+but still they occupy the lines.  I'm open for new advices want
+to improve this code.
